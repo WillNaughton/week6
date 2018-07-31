@@ -1,0 +1,4 @@
+INFO: Thu Jul 26 13:00:35 MST 2018 - hello
+WARNING: Thu Jul 26 13:00:36 MST 2018 - this is a warning
+ERROR: Thu Jul 26 13:00:36 MST 2018 - oops, this is an error
+FATAL: Thu Jul 26 13:00:36 MST 2018 - fatal error
