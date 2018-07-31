@@ -1,4 +1,4 @@
-package homeworkWeek6;
+package practice;
 	
 	public class Quiz{
 
